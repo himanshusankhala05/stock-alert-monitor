@@ -1,0 +1,86 @@
+2026-06-03 12:17:21,715 | INFO | Stock alert service started
+2026-06-03 12:17:21,715 | INFO | Market is open — starting monitoring
+2026-06-03 12:17:31,721 | INFO | Checking stock prices...
+2026-06-03 12:17:38,563 | ERROR | Row error : Unsupported exchange: 
+2026-06-03 12:17:38,564 | ERROR | Row error : Unsupported exchange: 
+2026-06-03 12:17:39,017 | INFO | Checking Completed. Sleeping...
+2026-06-03 12:19:09,177 | INFO | Stock alert service started
+2026-06-03 12:19:09,178 | INFO | Market is open — starting monitoring
+2026-06-03 12:19:19,183 | INFO | Checking stock prices...
+2026-06-03 12:19:25,915 | ERROR | Row error : Unsupported exchange: 
+2026-06-03 12:19:25,917 | ERROR | Row error : Unsupported exchange: 
+2026-06-03 12:19:26,595 | INFO | Checking Completed. Sleeping...
+2026-06-03 12:20:26,596 | INFO | Checking stock prices...
+2026-06-03 12:20:32,518 | ERROR | Row error : Unsupported exchange: 
+2026-06-03 12:20:32,519 | ERROR | Row error : Unsupported exchange: 
+2026-06-03 12:20:33,030 | INFO | Checking Completed. Sleeping...
+2026-06-03 12:21:19,317 | INFO | Stock alert service started
+2026-06-03 12:21:19,318 | INFO | Market is open — starting monitoring
+2026-06-03 12:21:29,322 | INFO | Checking stock prices...
+2026-06-03 12:21:33,228 | INFO | Checked Pine Labs (PINELABS.NS): 140.14999389648438
+2026-06-03 12:21:33,349 | INFO | Checked NHPC (NHPC.NS): 75.16000366210938
+2026-06-03 12:21:33,460 | INFO | Checked Life Insurance Corporation of India (LICI.NS): 398.6499938964844
+2026-06-03 12:21:33,583 | INFO | Checked MIC Electronics (MICEL.NS): 42.84000015258789
+2026-06-03 12:21:33,805 | INFO | Checked Tata Motors Passenger (TMPV.NS): 388.8999938964844
+2026-06-03 12:21:34,037 | INFO | Checked Indian Railway Finance Corp (IRFC.NS): 94.8499984741211
+2026-06-03 12:21:34,143 | INFO | Checked Oin and Natural Gas Corp (ONGC.NS): 267.0
+2026-06-03 12:21:34,250 | INFO | Checked NBCC(India) (NBCC.NS): 100.45999908447266
+2026-06-03 12:21:34,358 | INFO | Checked Vedanta (VEDL.NS): 326.79998779296875
+2026-06-03 12:21:34,598 | INFO | Checked Hindustan coper (HINDCOPPER.NS): 536.7999877929688
+2026-06-03 12:21:34,706 | INFO | Checked ITC (ITC.NS): 276.3500061035156
+2026-06-03 12:21:34,746 | INFO | Checked MIC Electronics (MICEL.NS): 42.84000015258789
+2026-06-03 12:21:34,787 | INFO | Checked Tata Motors Passenger (TMPV.NS): 388.8999938964844
+2026-06-03 12:21:34,902 | INFO | Checked Bharat Heavy Electronics (BHEL.NS): 399.75
+2026-06-03 12:21:35,006 | INFO | Checked Shadowdax Tech. (SHADOWFAX.NS): 192.57000732421875
+2026-06-03 12:21:35,122 | INFO | Checked Adani Power (ADANIPOWER.NS): 232.67999267578125
+2026-06-03 12:21:35,353 | INFO | Checked Tata Motors (TMCV.NS): 366.54998779296875
+2026-06-03 12:21:35,456 | INFO | Checked Belrise Industries (BELRISE.NS): 218.33999633789062
+2026-06-03 12:21:35,568 | INFO | Checked Canara Bank (CANBK.NS): 127.81999969482422
+2026-06-03 12:21:35,674 | INFO | Checked Eternal (ETERNAL.NS): 246.10000610351562
+2026-06-03 12:21:35,783 | INFO | Checked Varun Bevrages (VBL.NS): 536.0
+2026-06-03 12:21:35,886 | INFO | Checked Tata Power (TATAPOWER.NS): 408.6000061035156
+2026-06-03 12:21:35,930 | INFO | Checked Hindustan coper (HINDCOPPER.NS): 536.7999877929688
+2026-06-03 12:21:35,974 | INFO | Checked Bharat Heavy Electronics (BHEL.NS): 399.75
+2026-06-03 12:21:35,976 | ERROR | Row error : Unsupported exchange: 
+2026-06-03 12:21:35,976 | ERROR | Row error : Unsupported exchange: 
+2026-06-03 12:21:36,408 | INFO | Checking Completed. Sleeping...
+2026-06-03 12:22:36,409 | INFO | Checking stock prices...
+2026-06-03 12:22:39,595 | INFO | Checked Pine Labs (PINELABS.NS): 140.22000122070312
+2026-06-03 12:22:39,728 | INFO | Checked NHPC (NHPC.NS): 75.18000030517578
+2026-06-03 12:22:39,862 | INFO | Checked Life Insurance Corporation of India (LICI.NS): 398.6000061035156
+2026-06-03 12:22:39,970 | INFO | Checked MIC Electronics (MICEL.NS): 42.84000015258789
+2026-06-03 12:22:40,093 | INFO | Checked Tata Motors Passenger (TMPV.NS): 389.0
+2026-06-03 12:22:40,203 | INFO | Checked Indian Railway Finance Corp (IRFC.NS): 94.86000061035156
+2026-06-03 12:22:40,315 | INFO | Checked Oin and Natural Gas Corp (ONGC.NS): 267.1499938964844
+2026-06-03 12:22:40,464 | INFO | Checked NBCC(India) (NBCC.NS): 100.5
+2026-06-03 12:22:40,569 | INFO | Checked Vedanta (VEDL.NS): 327.25
+2026-06-03 12:22:40,686 | INFO | Checked Hindustan coper (HINDCOPPER.NS): 536.5
+2026-06-03 12:22:40,806 | INFO | Checked ITC (ITC.NS): 276.5
+2026-06-03 12:22:40,844 | INFO | Checked MIC Electronics (MICEL.NS): 42.84000015258789
+2026-06-03 12:22:40,887 | INFO | Checked Tata Motors Passenger (TMPV.NS): 389.0
+2026-06-03 12:22:41,055 | INFO | Checked Bharat Heavy Electronics (BHEL.NS): 399.8999938964844
+2026-06-03 12:22:41,160 | INFO | Checked Shadowdax Tech. (SHADOWFAX.NS): 192.39999389648438
+2026-06-03 12:22:41,281 | INFO | Checked Adani Power (ADANIPOWER.NS): 232.74000549316406
+2026-06-03 12:22:41,383 | INFO | Checked Tata Motors (TMCV.NS): 367.8500061035156
+2026-06-03 12:22:41,614 | INFO | Checked Belrise Industries (BELRISE.NS): 218.36000061035156
+2026-06-03 12:22:41,740 | INFO | Checked Canara Bank (CANBK.NS): 127.80999755859375
+2026-06-03 12:22:41,847 | INFO | Checked Eternal (ETERNAL.NS): 246.1999969482422
+2026-06-03 12:22:41,950 | INFO | Checked Varun Bevrages (VBL.NS): 535.7999877929688
+2026-06-03 12:22:42,056 | INFO | Checked Tata Power (TATAPOWER.NS): 408.70001220703125
+2026-06-03 12:22:42,093 | INFO | Checked Hindustan coper (HINDCOPPER.NS): 536.5
+2026-06-03 12:22:42,134 | INFO | Checked Bharat Heavy Electronics (BHEL.NS): 399.8999938964844
+2026-06-03 12:22:42,781 | INFO | Checking Completed. Sleeping...
+2026-06-03 12:23:08,929 | INFO | Stock alert service started
+2026-06-03 12:23:08,929 | INFO | Market is open — starting monitoring
+2026-06-03 12:23:18,934 | INFO | Checking stock prices...
+2026-06-03 12:23:25,581 | INFO | Checking Completed. Sleeping...
+2026-06-03 12:24:25,582 | INFO | Checking stock prices...
+2026-06-03 12:24:31,689 | INFO | Checking Completed. Sleeping...
+2026-06-03 12:25:31,689 | INFO | Checking stock prices...
+2026-06-03 12:25:37,720 | INFO | Checking Completed. Sleeping...
+2026-06-03 12:26:37,721 | INFO | Checking stock prices...
+2026-06-03 12:26:43,767 | INFO | Checking Completed. Sleeping...
+2026-06-03 12:27:43,768 | INFO | Checking stock prices...
+2026-06-03 12:27:49,861 | INFO | Checking Completed. Sleeping...
+2026-06-03 12:28:49,862 | INFO | Checking stock prices...
+2026-06-03 12:28:56,108 | INFO | Checking Completed. Sleeping...

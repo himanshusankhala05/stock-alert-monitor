@@ -1,0 +1,15 @@
+2026-01-18 17:35:50,811 | INFO | Stock alert service started
+2026-01-18 17:35:50,811 | ERROR | Failed to read Excel file: [Errno 2] No such file or directory: 'stocks.xlsx'
+2026-01-18 17:37:07,674 | INFO | Stock alert service started
+2026-01-18 17:38:42,271 | INFO | Stock alert service started
+2026-01-18 17:42:33,004 | INFO | Stock alert service started
+2026-01-18 17:42:33,004 | ERROR | Failed to read Excel file: [Errno 2] No such file or directory: 'stocks.xlsx'
+2026-01-18 17:42:40,165 | INFO | Stock alert service started
+2026-01-18 17:42:41,189 | INFO | ALERT | Pine Labs | LOW | Price: 236.6699981689453 | Alert: 242.1
+2026-01-18 17:42:41,900 | INFO | ALERT | Varun Bevrages | LOW | Price: 500.3999938964844 | Alert: 551.1
+2026-01-18 17:43:43,677 | INFO | Stock alert service started
+2026-01-18 17:43:54,826 | INFO | ALERT | Pine Labs | LOW | Price: 236.6699981689453 | Alert: 242.1
+2026-01-18 17:44:06,095 | INFO | ALERT | Varun Bevrages | LOW | Price: 500.3999938964844 | Alert: 551.1
+2026-01-18 17:45:03,550 | INFO | Stock alert service started
+2026-01-18 17:45:04,578 | INFO | ALERT | Pine Labs | LOW | Price: 236.6699981689453 | Alert: 242.1
+2026-01-18 17:45:15,332 | INFO | ALERT | Varun Bevrages | LOW | Price: 500.3999938964844 | Alert: 551.1

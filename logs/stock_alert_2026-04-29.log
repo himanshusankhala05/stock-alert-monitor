@@ -1,0 +1,13 @@
+2026-04-29 13:19:35,181 | INFO | Stock alert service started
+2026-04-29 13:19:35,182 | INFO | Market is open — starting monitoring
+2026-04-29 13:19:45,189 | INFO | Checking stock prices...
+2026-04-29 13:19:45,278 | WARNING | Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000029F6DDADE80>: Failed to resolve 'oauth2.googleapis.com' ([Errno 11001] getaddrinfo failed)")': /token
+2026-04-29 13:19:45,279 | WARNING | Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000029F6DD9DD10>: Failed to resolve 'oauth2.googleapis.com' ([Errno 11001] getaddrinfo failed)")': /token
+2026-04-29 13:19:45,281 | WARNING | Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000029F6DD9DF90>: Failed to resolve 'oauth2.googleapis.com' ([Errno 11001] getaddrinfo failed)")': /token
+2026-04-29 13:19:45,282 | ERROR | Failed to read Google Sheet: HTTPSConnectionPool(host='oauth2.googleapis.com', port=443): Max retries exceeded with url: /token (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000029F6DD9E210>: Failed to resolve 'oauth2.googleapis.com' ([Errno 11001] getaddrinfo failed)"))
+2026-04-29 13:19:45,289 | INFO | Checking Completed. Sleeping...
+2026-04-29 13:20:45,304 | INFO | Checking stock prices...
+2026-04-29 13:20:50,935 | INFO | ALERT | Shadowdax Tech. | HIGH | Last Exit Price: 0 | Price: 156.35000610351562 | Alert: 151.0
+2026-04-29 13:21:02,391 | ERROR | Row error : Unsupported exchange: 
+2026-04-29 13:21:02,391 | ERROR | Row error : Unsupported exchange: 
+2026-04-29 13:21:02,891 | INFO | Checking Completed. Sleeping...

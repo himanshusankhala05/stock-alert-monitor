@@ -1,0 +1,58 @@
+2026-01-19 12:04:03,208 | INFO | Stock alert service started
+2026-01-19 12:05:18,950 | INFO | Stock alert service started
+2026-01-19 12:06:33,511 | INFO | Stock alert service started
+2026-01-19 12:06:33,511 | ERROR | Failed to read Excel file: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2026-01-19 12:07:38,492 | INFO | Stock alert service started
+2026-01-19 12:07:39,690 | INFO | ALERT | Pine Labs | LOW | Price: 240.6199951171875 | Alert: 242.1
+2026-01-19 12:07:50,392 | INFO | ALERT | Varun Bevrages | LOW | Price: 497.70001220703125 | Alert: 551.1
+2026-01-19 12:11:20,863 | INFO | ALERT | Pine Labs | LOW | Price: 240.64999389648438 | Alert: 242.1
+2026-01-19 12:11:31,755 | INFO | ALERT | Varun Bevrages | LOW | Price: 496.5 | Alert: 551.1
+2026-01-19 12:13:16,823 | INFO | Stock alert service started
+2026-01-19 12:13:17,856 | INFO | ALERT | Pine Labs | LOW | Last Exit Price: 240.65 | Price: 240.41000366210938 | Alert: 242.1
+2026-01-19 12:13:28,595 | INFO | ALERT | Varun Bevrages | LOW | Last Exit Price: 496.5 | Price: 497.5 | Alert: 551.1
+2026-01-19 12:16:59,212 | INFO | ALERT | Pine Labs | LOW | Last Exit Price: 240.41 | Price: 240.42999267578125 | Alert: 242.1
+2026-01-19 12:17:10,230 | INFO | ALERT | Varun Bevrages | LOW | Last Exit Price: 497.5 | Price: 497.3500061035156 | Alert: 551.1
+2026-01-19 12:20:40,727 | INFO | ALERT | Pine Labs | LOW | Last Exit Price: 240.43 | Price: 240.80999755859375 | Alert: 242.1
+2026-01-19 12:20:51,793 | INFO | ALERT | Varun Bevrages | LOW | Last Exit Price: 497.35 | Price: 497.8500061035156 | Alert: 551.1
+2026-01-19 12:21:01,794 | CRITICAL | Unhandled error: [Errno 13] Permission denied: 'stocks.xlsx'
+2026-01-19 12:37:21,602 | INFO | Stock alert service started
+2026-01-19 12:37:25,137 | INFO | ALERT | Pine Labs | LOW | Last Exit Price: 269.0 | Price: 240.0 | Alert: 242.1
+2026-01-19 12:39:03,927 | INFO | Stock alert service started
+2026-01-19 12:39:07,116 | INFO | ALERT | Pine Labs | LOW | Last Exit Price: 269.0 | Price: 239.99000549316406 | Alert: 242.1
+2026-01-19 12:42:43,531 | INFO | ALERT | Pine Labs | LOW | Last Exit Price: 269.0 | Price: 240.25 | Alert: 242.1
+2026-01-19 12:46:19,775 | INFO | ALERT | Pine Labs | LOW | Last Exit Price: 269.0 | Price: 240.22000122070312 | Alert: 242.1
+2026-01-19 12:46:30,266 | INFO | ALERT | Bharat Heavy Electronics | HIGH | Last Exit Price: 276.0 | Price: 260.3500061035156 | Alert: 248.4
+2026-01-19 12:49:06,379 | INFO | Stock alert service started
+2026-01-19 12:49:09,479 | INFO | ALERT | Pine Labs | LOW | Last Exit Price: 269.0 | Price: 240.5399932861328 | Alert: 242.1
+2026-01-19 12:52:45,589 | INFO | ALERT | Pine Labs | LOW | Last Exit Price: 269.0 | Price: 240.77999877929688 | Alert: 242.1
+2026-01-19 12:56:22,181 | ERROR | Row error Life insurance: Unsupported exchange: 
+2026-01-19 12:56:22,181 | ERROR | Row error : Unsupported exchange: 
+2026-01-19 12:56:22,181 | ERROR | Row error : Unsupported exchange: 
+2026-01-19 12:59:47,967 | ERROR | Row error Life insurance: could not convert string to float: ''
+2026-01-19 12:59:47,983 | ERROR | Row error MIC Electronics: could not convert string to float: ''
+2026-01-19 12:59:47,983 | ERROR | Row error Tata Motors PV: could not convert string to float: ''
+2026-01-19 13:00:12,254 | INFO | Stock alert service started
+2026-01-19 13:00:15,792 | ERROR | Row error Life insurance: could not convert string to float: ''
+2026-01-19 13:00:15,792 | ERROR | Row error MIC Electronics: could not convert string to float: ''
+2026-01-19 13:00:15,792 | ERROR | Row error Tata Motors PV: could not convert string to float: ''
+2026-01-19 13:01:39,884 | INFO | Stock alert service started
+2026-01-19 13:01:43,991 | ERROR | Row error Life insurance: could not convert string to float: ''
+2026-01-19 13:01:43,991 | ERROR | Row error MIC Electronics: could not convert string to float: ''
+2026-01-19 13:01:43,991 | ERROR | Row error Tata Motors PV: could not convert string to float: ''
+2026-01-19 13:03:20,704 | INFO | Stock alert service started
+2026-01-19 13:03:24,739 | ERROR | Row error Life Insurance Corporation of India: could not convert string to float: ''
+2026-01-19 13:03:24,740 | ERROR | Row error MIC Electronics: could not convert string to float: ''
+2026-01-19 13:03:24,740 | ERROR | Row error Tata Motors Passenger: could not convert string to float: ''
+2026-01-19 13:05:38,409 | INFO | Stock alert service started
+2026-01-19 13:30:34,687 | INFO | Stock alert service started
+2026-01-19 13:47:04,504 | INFO | Stock alert service started
+2026-01-19 13:49:09,969 | INFO | Stock alert service started
+2026-01-19 15:30:43,220 | INFO | Market closed during runtime — shutting down
+2026-01-19 15:30:43,229 | INFO | Stock alert service stopped
+2026-01-19 16:18:56,400 | INFO | Stock alert service started
+2026-01-19 16:18:56,400 | INFO | Market is closed — shutting down application
+2026-01-19 16:19:03,127 | INFO | Stock alert service started
+2026-01-19 16:22:08,909 | INFO | Stock alert service started
+2026-01-19 16:22:08,909 | INFO | Market is open — starting monitoring
+2026-01-19 16:22:08,909 | INFO | Checking stock prices...
+2026-01-19 16:22:15,562 | INFO | Checking Completed. Sleeping...
